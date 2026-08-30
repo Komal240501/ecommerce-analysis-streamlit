@@ -1,4 +1,6 @@
-pandas
-scikit-learn
-matplotlib
-streamlit
+python_version == 3.10
+streamlit==1.33.0
+pandas==2.0.3
+scikit-learn==1.3.0
+matplotlib==3.7.2
+
